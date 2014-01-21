@@ -1,3 +1,14 @@
 == README
 
 Link to Heroku page: http://secure-atoll-1836.herokuapp.com/
+
+What I did:
+1. Set up Ruby, Rails, GitHub, and Heroku.
+2. Created a Rails app.
+3. Updated the Gemfile to run postgresql in production and sqlite in development.
+4. Added a home page for my app and wrote my name in the html file.
+5. Stored my code on Github and deployed it to Heroku.
+
+Issues:
+1. I had a bit of trouble understanding some of the instructions in the lecture slides, but I managed to clarify them by speaking with Jenny during her office hours.
+2. I ran into some problems after making a small typo when modifying the Gemfile. These issues were easily resolved by simply correcting the typo.
